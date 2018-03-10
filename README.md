@@ -1,5 +1,5 @@
 # Configuration-Network-In-Linux
-Compose some tips network in Linux real world
+Compose and research some tips network in Linux real world
 
 ### 1. Changes DHCP IP to static ip
 ### 2. Configuration FPT Server on Ubuntu 16.04
