@@ -19,7 +19,7 @@ Compose some tips network in Linux real world
 ### 16. Installation and configure PostFix - Mail Serve
 ### 17. Installation and configure POP and IMAP (Devecot)
 ### 18. Security 
-#### 18.1. Local Security
-#### 18.2. Firewall Server
-#### 18.3. Network Security - IDS Server
-#### 18.4. Backup & Restore
++ #### 18.1. Local Security
++ #### 18.2. Firewall Server
++ #### 18.3. Network Security - IDS Server
++ #### 18.4. Backup & Restore
