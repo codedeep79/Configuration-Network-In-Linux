@@ -23,3 +23,7 @@ Compose and research some tips network in Linux real world
 + #### 18.2. Firewall Server
 + #### 18.3. Network Security - IDS Server
 + #### 18.4. Backup & Restore
+### 19. Host a File Sharing Server with Pydio on Ubuntu 14.04
+### 20. Create a WebDAV server on Ubuntu and connect it to ONLYOFFICE
+### 21. [Internet Web Server and Domain Configuration](http://www.yolinux.com/TUTORIALS/LinuxTutorialWebSiteConfig.html) 
+### 22. Setup A Virtual Private Server Using Ubuntu 14.04
